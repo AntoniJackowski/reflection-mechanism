@@ -66,3 +66,6 @@ build/
 
 .idea/
 >>>>>>> 7444ab7 (Initialize project structure)
+
+# Project documentation
+*.pdf
